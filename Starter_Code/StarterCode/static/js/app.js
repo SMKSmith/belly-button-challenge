@@ -69,7 +69,7 @@ function charts(sampleName) {
   });
 }
 
-// Setting selectors for dempgraphic info box 
+// Setting selectors for demographic info box 
 
 function demo(sampleName) {
   d3.json(url).then((data) => {
