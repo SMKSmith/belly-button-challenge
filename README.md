@@ -1,5 +1,7 @@
 # Belly Button Challenge
+
 ![bacteria](https://user-images.githubusercontent.com/117343047/230317989-b92be068-ce5a-4ac6-905e-061c04625d41.jpg)
+
 ### Background
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
